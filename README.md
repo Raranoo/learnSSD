@@ -1,2 +1,0 @@
-# learnSSD
-summer intership
